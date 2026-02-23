@@ -1,6 +1,6 @@
 # 📧 Aol Valid Email Checker
 
-![image](https://raw.githubusercontent.com/alexrony21/aol-email-validator/refs/heads/main/aol-email-validator.png)
+![image](https://raw.githubusercontent.com/alexrony21/aol-email-validator/refs/heads/main/aol-mail-checker.png)
 
 ## 🚀 Features
 
